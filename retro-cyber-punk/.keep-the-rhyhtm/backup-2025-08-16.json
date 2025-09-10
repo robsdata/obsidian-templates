@@ -1,0 +1,277 @@
+{
+  "schema": "0.2",
+  "settings": {
+    "enabledLanguages": [
+      "LATIN"
+    ],
+    "dailyWritingGoal": 500,
+    "startOfTheWeek": "SUNDAY",
+    "heatmapNavigation": true,
+    "heatmapConfig": {
+      "roundCells": true,
+      "hideMonthLabels": false,
+      "hideWeekdayLabels": false,
+      "intensityMode": "gradual",
+      "intensityStops": {
+        "low": 100,
+        "medium": 500,
+        "high": 1000
+      },
+      "colors": {
+        "light": {
+          "0": "#e0e0e0",
+          "1": "#9be9a8",
+          "2": "#6ad286",
+          "3": "#2ebd54",
+          "4": "#67d0c9"
+        },
+        "dark": {
+          "0": "#ebedf015",
+          "1": "#0e4429",
+          "2": "#006d32",
+          "3": "#26a641",
+          "4": "#019d83"
+        }
+      }
+    },
+    "sidebarConfig": {
+      "visibility": {
+        "showSlots": true,
+        "showEntries": true,
+        "showHeatmap": true
+      },
+      "slots": []
+    }
+  },
+  "stats": {
+    "currentStreak": 0,
+    "highestStreak": 0,
+    "highestStreakStartDate": "",
+    "highestStreakEndDate": "",
+    "daysWithCompletedGoal": [
+      "2025-08-17",
+      "2025-08-18",
+      "2025-08-20",
+      "2025-08-21",
+      "2025-08-22",
+      "2025-08-23",
+      "2025-08-26",
+      "2025-08-28",
+      "2025-08-29",
+      "2025-09-02",
+      "2025-09-08",
+      "2025-09-09"
+    ],
+    "dailyActivity": [
+      {
+        "date": "2025-09-10",
+        "filePath": "Templates/new_task.md",
+        "wordCountStart": 12,
+        "charCountStart": 79,
+        "changes": [
+          {
+            "timeKey": "11:35",
+            "w": -12,
+            "c": -79
+          }
+        ],
+        "id": 652
+      },
+      {
+        "date": "2025-09-10",
+        "filePath": "Templates/new_note.md",
+        "wordCountStart": 6,
+        "charCountStart": 61,
+        "changes": [],
+        "id": 653
+      },
+      {
+        "date": "2025-09-10",
+        "filePath": "Templates/new_idea.md",
+        "wordCountStart": 6,
+        "charCountStart": 60,
+        "changes": [],
+        "id": 654
+      },
+      {
+        "date": "2025-09-10",
+        "filePath": "Templates/new_daily.md",
+        "wordCountStart": 33,
+        "charCountStart": 359,
+        "changes": [],
+        "id": 655
+      },
+      {
+        "date": "2025-09-10",
+        "filePath": "Home.md",
+        "wordCountStart": 98,
+        "charCountStart": 609,
+        "changes": [
+          {
+            "timeKey": "11:40",
+            "w": 0,
+            "c": -3
+          },
+          {
+            "timeKey": "11:45",
+            "w": -23,
+            "c": -85
+          },
+          {
+            "timeKey": "11:50",
+            "w": 2,
+            "c": 22
+          },
+          {
+            "timeKey": "11:55",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "12:00",
+            "w": -2,
+            "c": -20
+          },
+          {
+            "timeKey": "12:10",
+            "w": -2,
+            "c": -23
+          },
+          {
+            "timeKey": "12:15",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "12:35",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "16:20",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "16:30",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 656
+      },
+      {
+        "date": "2025-09-10",
+        "filePath": "Inbox/New Daily Note.md",
+        "wordCountStart": 33,
+        "charCountStart": 359,
+        "changes": [],
+        "id": 657
+      },
+      {
+        "date": "2025-09-10",
+        "filePath": "Inbox/New Idea.md",
+        "wordCountStart": 6,
+        "charCountStart": 60,
+        "changes": [],
+        "id": 658
+      },
+      {
+        "date": "2025-09-10",
+        "filePath": "Inbox/New Simple Note.md",
+        "wordCountStart": 6,
+        "charCountStart": 61,
+        "changes": [],
+        "id": 659
+      },
+      {
+        "date": "2025-09-10",
+        "filePath": "Untitled.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 660
+      },
+      {
+        "date": "2025-09-10",
+        "filePath": "InProgress/2025-08-27-nb-local_environment.md",
+        "wordCountStart": 3087,
+        "charCountStart": 29888,
+        "changes": [
+          {
+            "timeKey": "16:50",
+            "w": 6,
+            "c": 70
+          }
+        ],
+        "id": 717
+      },
+      {
+        "date": "2025-09-10",
+        "filePath": "Excalidraw/diagram_fs01-local_environment.md",
+        "wordCountStart": 550,
+        "charCountStart": 18876,
+        "changes": [],
+        "id": 718
+      },
+      {
+        "date": "2025-09-10",
+        "filePath": "InProgress/2025-08-27-ss-local_environment.md",
+        "wordCountStart": 1327,
+        "charCountStart": 11170,
+        "changes": [],
+        "id": 719
+      },
+      {
+        "date": "2025-09-10",
+        "filePath": "InProgress/architectural_patterns.md",
+        "wordCountStart": 1136,
+        "charCountStart": 8190,
+        "changes": [
+          {
+            "timeKey": "16:45",
+            "w": 1,
+            "c": 20
+          }
+        ],
+        "id": 720
+      },
+      {
+        "date": "2025-09-10",
+        "filePath": "InProgress/virtual-environmets.md",
+        "wordCountStart": 1137,
+        "charCountStart": 8115,
+        "changes": [],
+        "id": 721
+      },
+      {
+        "date": "2025-09-10",
+        "filePath": "InProgress/gitignore.md",
+        "wordCountStart": 1114,
+        "charCountStart": 7490,
+        "changes": [],
+        "id": 722
+      },
+      {
+        "date": "2025-09-10",
+        "filePath": "README.md",
+        "wordCountStart": 152,
+        "charCountStart": 1236,
+        "changes": [
+          {
+            "timeKey": "17:10",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 723
+      }
+    ]
+  }
+}

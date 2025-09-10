@@ -1,0 +1,11 @@
+# .gitignore
+
+# Obsidian specific
+.obsidian/
+
+# ======================================================================
+# PKM SYSTEM - PERSONAL DATA EXCLUSION
+# Excluye el directorio del journal mensual para mantener el repositorio
+# enfocado en el sistema PKM y no en los datos personales de alta frecuencia.
+# ======================================================================
+Alpha_Journal/

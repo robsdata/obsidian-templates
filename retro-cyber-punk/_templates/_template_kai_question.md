@@ -1,0 +1,31 @@
+---
+status:
+  - 2-inProgress
+tags:
+  - type/template
+  - type/prompt
+version:
+---
+
+**Date**: {{date:YYYY-MM-DD}}
+
+Hola Kai,
+
+Quiero que analices el siguiente concepto para crear una Ficha de Conocimiento.
+
+**1. Concepto Central:**
+`[Escribe aquí el nombre del concepto que quieres entender. Ej: Idempotencia en APIs REST]`
+
+**2. Contexto / Fuente:**
+`[Pega aquí el texto donde encontraste el concepto. Puede ser un párrafo de un artículo, la documentación oficial, o una explicación que hayas encontrado. Mientras más completo, mejor podré analizarlo.]`
+
+**3. Modificadores (Opcional, pero recomendado):**
+`[Añade los modificadores de Alpha que creas que se ajustan a tu necesidad de aprendizaje. Esto me ayudará a enfocar la Ficha de Conocimiento.]`
+*   `[L1]` si buscas una explicación conceptual y de alto nivel.
+*   `[L2]` si necesitas entender cómo funciona en la práctica.
+*   `[L3]` si quieres conocer los detalles avanzados y de optimización.
+*   `[ARQUITECTA]` si el tono debe ser técnico y lógico.
+*   `[INSPIRADORA]` si quieres conectar el concepto con el "porqué" y su valor estratégico.
+
+**4. Duda Específica (Opcional):**
+`[Si tienes una pregunta concreta sobre el concepto, escríbela aquí. Ej: "No entiendo cómo se implementa en la práctica más allá de la teoría."]`
