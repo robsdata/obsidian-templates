@@ -1,0 +1,379 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "9dd12359bc4cda89",
+        "type": "tabs",
+        "dimension": 66.04324956165985,
+        "children": [
+          {
+            "id": "bbf172bd282e3606",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "419641b13ad1f47f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "InProgress/n_layered_architecture.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "n_layered_architecture"
+            }
+          },
+          {
+            "id": "619fafc003f650dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      },
+      {
+        "id": "2730b059dbca8d1b",
+        "type": "tabs",
+        "dimension": 33.95675043834015,
+        "children": [
+          {
+            "id": "9c51d0af54117f23",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "4c56b6b298817204",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "InProgress/soc_in_analytics_engineer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "soc_in_analytics_engineer"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "23d0951c69fce1d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "31cc234a3557dac4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2103b674d130342c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5991adb345b3ef08",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "af4dcfb077df96cf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 370.5032539367676
+  },
+  "right": {
+    "id": "cf19a3db2291563e",
+    "type": "split",
+    "children": [
+      {
+        "id": "fcbdb9749f1e3aad",
+        "type": "tabs",
+        "dimension": 27.320675105485233,
+        "children": [
+          {
+            "id": "9f2051fd2467a62b",
+            "type": "leaf",
+            "state": {
+              "type": "keep-the-rhythm",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "keep-the-rhythm"
+            }
+          },
+          {
+            "id": "bffb2f5081d65080",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabeticalReverse",
+                "useHierarchy": false,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6e3f97d2fcddc752",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
+            }
+          },
+          {
+            "id": "be3c7aeaf4784bff",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Excalidraw/diagram-local_environment.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for diagram-local_environment"
+            }
+          },
+          {
+            "id": "cca25f8074a88318",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Excalidraw/diagram-local_environment.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from diagram-local_environment"
+            }
+          },
+          {
+            "id": "f225e2d6ee61c20d",
+            "type": "leaf",
+            "state": {
+              "type": "timer-view",
+              "state": {},
+              "icon": "timer",
+              "title": "Timer"
+            }
+          },
+          {
+            "id": "030467fbadba6096",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "a83437d4cfdac20b",
+        "type": "tabs",
+        "dimension": 37.447257383966246,
+        "children": [
+          {
+            "id": "60079820574b4259",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of README"
+            }
+          }
+        ]
+      },
+      {
+        "id": "b144f0dacfb48f6d",
+        "type": "tabs",
+        "dimension": 35.232067510548525,
+        "children": [
+          {
+            "id": "433d1a25f3a25c15",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "calendar"
+            }
+          },
+          {
+            "id": "c30a80397518c0c2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 383.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templates:Insert template": true,
+      "command-palette:Open command palette": false,
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": true,
+      "bases:Create new base": false,
+      "daily-notes:Open today's daily note": false,
+      "workspaces:Manage workspace layouts": false,
+      "keep-the-rhythm:Word Count Stats": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "cmdr:new-note": false,
+      "cmdr:new-session": false,
+      "cmdr:new-notebook": false,
+      "cmdr:New Pulse": false,
+      "cmdr:new-kai_question": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "homepage:Open homepage": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "pomodoro-timer:Toggle timer panel": false
+    }
+  },
+  "active": "bbf172bd282e3606",
+  "lastOpenFiles": [
+    "Inbox/1.md",
+    "README.md",
+    "inbox/1.md",
+    "Excalidraw/diagram_fs01-local_environment.md",
+    "InProgress/2025-08-27-nb-local_environment.md",
+    "InProgress/virtual-environmets.md",
+    "InProgress/gitignore.md",
+    "InProgress/architectural_patterns.md",
+    "InProgress/2025-08-27-ss-local_environment.md",
+    "InProgress/soc_in_analytics_engineer.md",
+    "InProgress/design_patterns.md",
+    "InProgress/model_naming_convention.md",
+    "InProgress/star-schema.md",
+    "InProgress/n_layered_architecture.md",
+    "_templates/_template_YYYY-MM-DD-ss-slug.md",
+    "_templates/_template_YYYY-MM-DD-nb-slug.md",
+    "_templates/_template_pulse-name.md",
+    "InProgress/requirements_dependency_management.md",
+    "InProgress/srp_single_responsability_principle.md",
+    "InProgress/dag_directed_acyclic_graph.md",
+    "InProgress/architectural_vs_design_patterns.md",
+    "InProgress/soc_separation_of_concern.md",
+    "InProgress/data_mesh.md",
+    "InProgress/dimensional_modeling.md",
+    "Daily/2025-09_ROUSEY.md",
+    "Inbox/kai-analytic_environments.md",
+    "02-Knowledge_Areas/01-coding/03-libraries_frameworks",
+    "02-Knowledge_Areas/04-ai_automation",
+    "02-Knowledge_Areas/03-project_management",
+    "02-Knowledge_Areas/02-cloud",
+    "02-Knowledge_Areas/01-coding/04-devops_cicd",
+    "02-Knowledge_Areas/01-engineering_practices/New folder",
+    "02-Knowledge_Areas/01-coding/02-tech_stack",
+    "02-Knowledge_Areas/01-coding/00-coding_principles",
+    "Untitled",
+    "Excalidraw",
+    "Untitled.canvas",
+    "06-Assets/media/Pasted image 20250901133758.png",
+    "06-Assets/media/avatars/alpha06.png",
+    "06-Assets/media/avatars/alpha05.png",
+    "06-Assets/media/avatars/alpha04.png",
+    "06-Assets/media/avatars/alpha03.png",
+    "06-Assets/media/avatars/alpha02.png",
+    "06-Assets/media/avatars/alpha01.png",
+    "media/Pasted image 20250830115124.jpg",
+    "media/Pasted image 20250830115312.png",
+    "06-Assets/media/avatars/alpha08.png"
+  ]
+}

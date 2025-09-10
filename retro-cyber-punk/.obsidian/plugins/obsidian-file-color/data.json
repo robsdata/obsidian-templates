@@ -1,0 +1,86 @@
+{
+  "cascadeColors": true,
+  "colorBackground": true,
+  "palette": [
+    {
+      "id": "L6vfTQWR2g9E05wGVxqrn",
+      "name": "Cyber Lime",
+      "value": "#9eff00"
+    },
+    {
+      "id": "CurWmi5wxD_hnvoQ5uDGg",
+      "name": "Data Pink",
+      "value": "#ff69b4"
+    },
+    {
+      "id": "7OaBK5BKgpwd159FbUsB_",
+      "name": "Glitch Yellow",
+      "value": "#f6f900"
+    },
+    {
+      "id": "w8gkRwmJpcd3SuSY2gyMg",
+      "name": "Plasma Teal",
+      "value": "#00f4e0"
+    },
+    {
+      "id": "czXUXbPDNIleMmwuU0wob",
+      "name": "Arcade Orange",
+      "value": "#ff9500"
+    },
+    {
+      "id": "t5K8BBHlVrGZs1v1Qvd73",
+      "name": "Soul",
+      "value": "#fafafa"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "InProgress",
+      "color": "czXUXbPDNIleMmwuU0wob"
+    },
+    {
+      "path": "04-Prompts",
+      "color": "CurWmi5wxD_hnvoQ5uDGg"
+    },
+    {
+      "path": "README.md",
+      "color": "t5K8BBHlVrGZs1v1Qvd73"
+    },
+    {
+      "path": "Inbox",
+      "color": "t5K8BBHlVrGZs1v1Qvd73"
+    },
+    {
+      "path": "Daily",
+      "color": "t5K8BBHlVrGZs1v1Qvd73"
+    },
+    {
+      "path": "00-Notebooks",
+      "color": "w8gkRwmJpcd3SuSY2gyMg"
+    },
+    {
+      "path": "01-Sessions",
+      "color": "w8gkRwmJpcd3SuSY2gyMg"
+    },
+    {
+      "path": "02-Pulses",
+      "color": "w8gkRwmJpcd3SuSY2gyMg"
+    },
+    {
+      "path": "03-Projects",
+      "color": "w8gkRwmJpcd3SuSY2gyMg"
+    },
+    {
+      "path": "Daily/2025-09_ROUSEY.md",
+      "color": "czXUXbPDNIleMmwuU0wob"
+    },
+    {
+      "path": "05-Docs",
+      "color": "7OaBK5BKgpwd159FbUsB_"
+    },
+    {
+      "path": "02-Knowledge_Areas",
+      "color": "w8gkRwmJpcd3SuSY2gyMg"
+    }
+  ]
+}

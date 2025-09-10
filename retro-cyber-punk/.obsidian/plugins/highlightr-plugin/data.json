@@ -1,0 +1,18 @@
+{
+  "highlighterStyle": "rounded",
+  "highlighterMethods": "inline-styles",
+  "highlighters": {
+    "cyber-lime": "#9EFF00",
+    "data-pink": "#FF69B4",
+    "glitch-yellow": "#F6F900",
+    "plasma-teal": "#00F4E0",
+    "arcade-orange": "#FF9500"
+  },
+  "highlighterOrder": [
+    "cyber-lime",
+    "data-pink",
+    "glitch-yellow",
+    "plasma-teal",
+    "arcade-orange"
+  ]
+}

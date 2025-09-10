@@ -1,0 +1,13 @@
+{
+  "theme": "system",
+  "accentColor": "#00adab",
+  "cssTheme": "Blue Topaz",
+  "interfaceFontFamily": "Helvetica,Be Vietnam Pro",
+  "textFontFamily": "Helvetica,Be Vietnam Pro,Avenir Next LT Pro",
+  "monospaceFontFamily": "Fira Code",
+  "baseFontSize": 15,
+  "baseFontSizeAction": true,
+  "nativeMenus": false,
+  "showViewHeader": true,
+  "showRibbon": true
+}

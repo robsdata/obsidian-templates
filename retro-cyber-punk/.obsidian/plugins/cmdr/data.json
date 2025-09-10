@@ -1,0 +1,76 @@
+{
+  "confirmDeletion": true,
+  "showAddCommand": false,
+  "debug": false,
+  "editorMenu": [],
+  "fileMenu": [],
+  "leftRibbon": [
+    {
+      "id": "quickadd:choice:e20d6143-d796-4c19-b084-6f9cb080042f",
+      "icon": "lucide-check-square",
+      "name": "new-note",
+      "mode": "desktop",
+      "color": "#00adab"
+    },
+    {
+      "id": "quickadd:choice:d17d8b95-fc80-413b-8ec3-5027928c58df",
+      "icon": "lucide-play",
+      "name": "new-session",
+      "mode": "desktop",
+      "color": "#00adab"
+    },
+    {
+      "id": "quickadd:choice:edfc8f0d-3880-42f3-bfde-f88892566bf0",
+      "icon": "lucide-book-up",
+      "name": "new-notebook",
+      "mode": "any",
+      "color": "#00adab"
+    },
+    {
+      "id": "quickadd:choice:06326948-3329-4c8d-945d-581292887a12",
+      "icon": "lucide-activity",
+      "name": "New Pulse",
+      "mode": "any",
+      "color": "#00adab"
+    },
+    {
+      "id": "quickadd:choice:9960b10c-3fbc-41dc-8a44-e0b915ae2ab4",
+      "icon": "lucide-apple",
+      "name": "new-kai_question",
+      "mode": "any",
+      "color": "#00adab"
+    }
+  ],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [],
+  "macros": [],
+  "explorer": [],
+  "hide": {
+    "statusbar": [],
+    "leftRibbon": [
+      "Manage workspace layouts",
+      "Open graph view",
+      "Open command palette",
+      "Advanced Tables Toolbar",
+      "Word Count Stats",
+      "Create new base",
+      "Open in Headings Mode",
+      "Open Symbols for the active editor",
+      "Open today's daily note",
+      "Templater"
+    ]
+  },
+  "spacing": 8,
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}
