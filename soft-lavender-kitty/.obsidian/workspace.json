@@ -1,0 +1,312 @@
+{
+  "main": {
+    "id": "1d5b82ea714dcd42",
+    "type": "split",
+    "children": [
+      {
+        "id": "a45b527196e0db49",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a364ca76a068eed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Home"
+            }
+          }
+        ]
+      },
+      {
+        "id": "e8e199e9c7ac4d91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00a4a3bba2c018a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/New Daily Note.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "New Daily Note"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6fb2384ced972320",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7449c5cafd5d32d",
+        "type": "tabs",
+        "dimension": 72.89972899728997,
+        "children": [
+          {
+            "id": "0dd7823a001d8610",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "344ca9d30929a350",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "21f63136cb0d846f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "3d1cd12e4c79c85f",
+        "type": "tabs",
+        "dimension": 27.100271002710024,
+        "children": [
+          {
+            "id": "6f58ecce5d860523",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 235.50852584838867
+  },
+  "right": {
+    "id": "967e3ffeae321fc2",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e4d19feef4e9db0",
+        "type": "tabs",
+        "dimension": 31.844215349369982,
+        "children": [
+          {
+            "id": "eebf29dd1e2292c1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from README"
+            }
+          },
+          {
+            "id": "9be2b1b1feb55807",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "77bb9fd4b7592af6",
+            "type": "leaf",
+            "state": {
+              "type": "timer-view",
+              "state": {},
+              "icon": "timer",
+              "title": "Timer"
+            }
+          },
+          {
+            "id": "4101882f50495448",
+            "type": "leaf",
+            "state": {
+              "type": "keep-the-rhythm",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "keep-the-rhythm"
+            }
+          },
+          {
+            "id": "88d77d6f4944a3bc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Inbox/New Daily Note.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for New Daily Note"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "93aaa2b1f8b18024",
+        "type": "tabs",
+        "dimension": 29.553264604810998,
+        "children": [
+          {
+            "id": "d0fa70e0252c5886",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Inbox/New Daily Note.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of New Daily Note"
+            }
+          }
+        ]
+      },
+      {
+        "id": "c823290f80b45984",
+        "type": "tabs",
+        "dimension": 38.60252004581902,
+        "children": [
+          {
+            "id": "a162faccaf5ebe92",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "d6a42b1866cbfa5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Home"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 250.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "daily-notes:Open today's daily note": false,
+      "graph:Open graph view": false,
+      "homepage:Open homepage": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "cmdr:New Idea": false,
+      "cmdr:New Note": false,
+      "cmdr:New Daily Note": false,
+      "pomodoro-timer:Toggle timer panel": false,
+      "keep-the-rhythm:Word Count Stats": false
+    }
+  },
+  "active": "00a4a3bba2c018a8",
+  "lastOpenFiles": [
+    "Home.md",
+    "Inbox/New Daily Note.md",
+    "Untitled.canvas",
+    "Media/home-banner.png",
+    "Untitled.md",
+    "Media/home-banner.png",
+    "Templates/new_daily.md",
+    "Templates/new_idea.md",
+    "Templates/new_note.md",
+    "Media/home-banner.png",
+    "Media/home-banner.png",
+    "Inbox/New Simple Note.md",
+    "Inbox/New Idea.md",
+    "Templates/new_task.md",
+    "Recycle",
+    "Inbox",
+    "Media/banner.png",
+    "Media/jappanese_flowers.png",
+    "Media/japanese_flower.png",
+    "Media/japanese_flower.png",
+    "Media",
+    "Notas",
+    "AI Prompts",
+    "2025-09-09.md",
+    "Templates",
+    "Tareas",
+    "Notas",
+    "Recuerdos",
+    "Ideas",
+    "Media/README2.png",
+    "README-1.png"
+  ]
+}

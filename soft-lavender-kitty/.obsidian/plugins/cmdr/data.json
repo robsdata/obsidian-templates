@@ -1,0 +1,65 @@
+{
+  "confirmDeletion": true,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [],
+  "fileMenu": [],
+  "leftRibbon": [
+    {
+      "id": "quickadd:choice:919a803f-db24-4ee5-9f82-1489317de7a8",
+      "icon": "lucide-leaf",
+      "name": "New Idea",
+      "mode": "any",
+      "color": "#fafafa"
+    },
+    {
+      "id": "quickadd:choice:038dfdfe-d175-4bd7-9e39-d226959bef0d",
+      "icon": "lucide-notebook",
+      "name": "New Note",
+      "mode": "any",
+      "color": "#fafafa"
+    },
+    {
+      "id": "quickadd:choice:540cb7b6-b0f0-47b4-8869-798a3990b3b1",
+      "icon": "lucide-sun",
+      "name": "New Daily Note",
+      "mode": "any",
+      "color": "#fafafa"
+    }
+  ],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [],
+  "macros": [],
+  "explorer": [],
+  "hide": {
+    "statusbar": [
+      "word-count"
+    ],
+    "leftRibbon": [
+      "Open quick switcher",
+      "Open command palette",
+      "Create new base",
+      "Open in Headings Mode",
+      "Open Symbols for the active editor",
+      "Advanced Tables Toolbar",
+      "Open graph view",
+      "Toggle timer panel",
+      "Word Count Stats",
+      "Insert template",
+      "Open today's daily note"
+    ]
+  },
+  "spacing": "8",
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}

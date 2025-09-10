@@ -1,0 +1,62 @@
+{
+  "cascadeColors": true,
+  "colorBackground": true,
+  "palette": [
+    {
+      "id": "oekFLDKwBzcWyez5ktgol",
+      "name": "soft-lila",
+      "value": "#b3a5c4"
+    },
+    {
+      "id": "ZhUeb9bsLOswwcJf6Shbc",
+      "name": "dark-lila",
+      "value": "#9a88ad"
+    },
+    {
+      "id": "Mmp8Y0LrUpsxixwfhS0uu",
+      "name": "soft-sativa",
+      "value": "#a6b4a2"
+    },
+    {
+      "id": "dF0Wqyy0l3ek4NI_jcD0H",
+      "name": "dark-indica",
+      "value": "#8a9a84"
+    },
+    {
+      "id": "LSnFheyaX0i_4brbkK9XP",
+      "name": "morning-sky",
+      "value": "#cad3e1"
+    },
+    {
+      "id": "6atVjZ73eQKvpQkeMwi2t",
+      "name": "dark-sky",
+      "value": "#a9b8d1"
+    },
+    {
+      "id": "zWqAWjFzhq5M-fXH0Rf3s",
+      "name": "citric-orange",
+      "value": "#ffbf66"
+    },
+    {
+      "id": "QeRrD0kCcQCiX81CO4efZ",
+      "name": "peach",
+      "value": "#ffcc80"
+    },
+    {
+      "id": "TV20WnwE6aj91EyoPCetg",
+      "name": "soft-coral",
+      "value": "#ffb3a8"
+    },
+    {
+      "id": "86fO1Nlau1z52tukZTUt4",
+      "name": "noon",
+      "value": "#ffa093"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Clips",
+      "color": "ZhUeb9bsLOswwcJf6Shbc"
+    }
+  ]
+}
